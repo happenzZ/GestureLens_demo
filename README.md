@@ -1,1 +1,0 @@
-# GestureLens_demo
